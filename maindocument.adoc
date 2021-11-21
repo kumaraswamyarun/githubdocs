@@ -1,2 +1,4 @@
 == Initialize Git
 git init
+
+== New Doc
